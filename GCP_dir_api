@@ -1,0 +1,10 @@
+###DirectoryAPI
+{
+  "creationTime": "2020-01-07T21:59:43.314Z",
+  "displayName": "my-organization",
+  "lifecycleState": "ACTIVE",
+  "name": "organizations/34739118321",
+  "owner": {
+    "directoryCustomerId": "C012ba234"
+  }
+}
